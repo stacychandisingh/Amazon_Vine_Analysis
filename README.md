@@ -23,7 +23,7 @@ The purpose of this analysis is to perform an ETL analysis on Amazon reviews wri
 - How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 **There were 2 Vine reviews that were 5 stars and there were 1704 non-Vine reviews that were 5 stars.**
 
-![vinepaid1](resources/vine_percent.PNG?raw=true "Title")
+![vinepaid1](resources/five_star_paid.PNG?raw=true "Title")
 
 ![vineunpaid1](resources/five_star_unpaid.PNG?raw=true "Title")
 
